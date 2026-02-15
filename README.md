@@ -1,6 +1,6 @@
-# Cookiecutter Node
+# Cookiecutter Node gRPC
 
-Cookiecutter Node (JavaScript and TypeScript)
+Cookiecutter Node gRPC (JavaScript and TypeScript)
 
 ### [JavaScript](https://github.com/amoghmadan/cookiecutter-node-grpc/tree/javascript)
 
