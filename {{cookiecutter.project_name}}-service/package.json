@@ -1,0 +1,33 @@
+{
+  "name": "{{cookiecutter.project_name}}",
+  "version": "0.1.0",
+  "description": "{{cookiecutter.project_description}}",
+  "keywords": [
+    "gRPC"
+  ],
+  "homepage": "https://github.com/amoghmadan/cookiecutter-node-grpc/tree/javascript#readme",
+  "bugs": {
+    "url": "https://github.com/amoghmadan/cookiecutter-node-grpc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoghmadan/cookiecutter-node-grpc.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "{{cookiecutter.author_name}} {{cookiecutter.author_email}}",
+  "type": "commonjs",
+  "main": "src/{{cookiecutter.project_name}}/main.js",
+  "scripts": {
+    "start": "node src/{{cookiecutter.project_name}}/main.js",
+    "dev": "node --watch src/{{cookiecutter.project_name}}/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.14.3",
+    "commander": "^14.0.3",
+    "google-protobuf": "^4.0.1",
+    "grpc-tools": "^1.13.1",
+    "luxon": "^3.7.2",
+    "mongoose": "^9.2.1"
+  }
+}
