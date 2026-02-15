@@ -6,7 +6,7 @@ Use this template to create an async gRPC Node project.
 
 - Set-up base.
   ```bash
-  cookiecutter https://github.com/amoghmadan/cookiecutter-node-grpc/tree/grpc
+  cookiecutter https://github.com/amoghmadan/cookiecutter-node-grpc --checkout javascript
   ```
 - Follow the prompts to customize your project.
   ```
