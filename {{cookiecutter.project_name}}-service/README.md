@@ -6,7 +6,7 @@
 
 - How to install dependencies?
   ```bash
-  pip install -e '.[automation,test]'
+  npm i
   ```
 
 ## How to run a development server?
