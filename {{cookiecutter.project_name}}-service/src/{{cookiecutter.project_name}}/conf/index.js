@@ -1,6 +1,6 @@
 const globalSettings = require("./globalSettings");
 
-const ENVIRONMENT_VARIABLE = "SETTINGS_MODULE";
+const ENVIRONMENT_VARIABLE = "GRPC_SETTINGS_MODULE";
 
 function settingsFromModule(module) {
   const mod = require(module);
