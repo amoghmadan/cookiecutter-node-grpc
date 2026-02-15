@@ -2,14 +2,6 @@
 
 Cookiecutter Node (JavaScript and TypeScript)
 
-### JavaScript
+### [JavaScript](https://github.com/amoghmadan/cookiecutter-node/tree/javascript)
 
-```bash
-cookiecutter https://github.com/amoghmadan/cookiecutter-node/tree/javascript
-```
-
-### TypeScript
-
-```bash
-cookiecutter https://github.com/amoghmadan/cookiecutter-node/tree/typescript
-```
+### [TypeScript](https://github.com/amoghmadan/cookiecutter-node/tree/typescript)
